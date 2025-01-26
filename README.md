@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on:<br>cancer prediction:Developing a model which can predict that a person have cancer or not by scanning a image of person or by giving them questonaire based on ai models it will give yout the prediction <br><br>🌱 I’m currently learning more about ,ui/ux,, Sql , data analytis and its usage in different fields<br><br>⚡ Fun fact: I am a junior year B.Tech (C.S.E ) student from Galgotias University with a passion for UI/UX Designing and data analytics.<br><br>
+🔭I'm currently working on:<br>cancer prediction:Developing a model which can predict that a person have cancer or not by scanning a image of person or by giving them questonaire based on ai models it will give yout the prediction <br><br>🌱 I’m currently learning more about ,ui/ux,, Sql , data analytics and its usage in different fields<br><br>⚡ Fun fact: I am a junior year B.Tech (C.S.E ) student from Galgotias University with a passion for UI/UX Designing and data analytics.<br><br>
 
 
  🌐 Socials:
